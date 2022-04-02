@@ -1,0 +1,8 @@
+.links span{
+    margin-right: 10px;
+    font-size: 20px;
+}
+.active{
+    color: teal;
+    text-decoration: none;
+}
